@@ -40,6 +40,6 @@ p {
 
 /* Add color active tab */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #003300;
   color: white;
 }
