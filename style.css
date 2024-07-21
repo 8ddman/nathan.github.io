@@ -43,3 +43,8 @@ p {
   background-color: #003300;
   color: white;
 }
+/*topnav button clicky thing alignment*/
+.topnav ul {
+    display: inline-block;
+    list-style-type: none;
+}
