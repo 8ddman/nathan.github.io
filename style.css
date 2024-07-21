@@ -44,7 +44,7 @@ p {
   color: white;
 }
 /*topnav button clicky thing alignment*/
-.topnav ul {
+.topnav {
     display: inline-block;
     list-style-type: none;
 }
