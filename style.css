@@ -48,3 +48,9 @@ p {
     display: inline-block;
     list-style-type: none;
 }
+/* Topnav border*/
+.topnav {
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
+}
