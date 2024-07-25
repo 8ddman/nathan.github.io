@@ -21,7 +21,8 @@ p {
   background-color: #595959;
   overflow: hidden;
   border: #595959;
-  border-radius: 5px; 
+  border-radius: 5px;
+  text-align: center; 
 }
 
 /*link style*/
@@ -55,4 +56,11 @@ p {
   border: 2px solid red;
   border-radius: 5px;
   padding: 5px;
+}
+/*topnav centering block, this makes the div centered*/
+.topnav {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
