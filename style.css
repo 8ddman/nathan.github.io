@@ -20,6 +20,9 @@ p {
 .topnav {
   background-color: #595959;
   overflow: hidden;
+  border: #595959;
+  border-radius: 5px;
+  text-align: center; 
 }
 
 /*link style*/
@@ -48,15 +51,9 @@ p {
     display: inline-block;
     list-style-type: none;
 }
-/* Media query for smaller screens (adjust breakpoint as needed) */
- @media (max-width: 768px) {
-  .topnav {
-    width: 300px;
-    height: 200px; 
-  } 
-}
-/*topnav border*/
+/* Topnav border*/
 .topnav {
-  border: solid #333333;
-  border-radius: 5px; 
+  border: 2px solid #333333;
+  border-radius: 5px;
+  padding: 5px;
 }
