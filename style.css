@@ -57,6 +57,6 @@ p {
 }
 /*topnav border*/
 .topnav {
-  border: 5px solid #333333;
+  border: solid #333333;
   border-radius: 5px; 
 }
