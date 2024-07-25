@@ -20,6 +20,8 @@ p {
 .topnav {
   background-color: #595959;
   overflow: hidden;
+  border: #595959;
+  border-radius: 5px; 
 }
 
 /*link style*/
