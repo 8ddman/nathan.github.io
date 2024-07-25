@@ -19,8 +19,6 @@ p {
 /* topnav background color and properties*/
 .topnav {
   background-color: #595959;
-  overflow: hidden;
-  text-align: center; 
 }
 
 /*link style*/
