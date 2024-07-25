@@ -52,4 +52,10 @@ p {
     display: inline-block;
     list-style-type: none;
 }
-/* Topnav border*/
+/* Media query for smaller screens (adjust breakpoint as needed) */
+@media (max-width: 768px) {
+  .topnav {
+    width: 300px; /* Increased width for mobile */
+    height: 200px; /* Increased height for mobile */
+  }
+}
