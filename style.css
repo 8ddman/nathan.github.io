@@ -51,11 +51,11 @@ p {
     display: inline-block;
     list-style-type: none;
 }
-/* Media query for smaller screens (adjust breakpoint as needed) DISABLED UNTIL I FIX TOPNAV BORDER NOT SHOWING UP WHEN ENABLED */
-/* @media (max-width: 768px) {
+/* Media query for smaller screens (adjust breakpoint as needed) */
+ @media (max-width: 768px) {
   .topnav {
     width: 300px;
     height: 200px; 
   } 
 }
-*/
+
