@@ -57,4 +57,9 @@ p {
     height: 200px; 
   } 
 }
+/*topnav border*/
+.topnav {
+  border: 5px solid #333333;
+  border-radius: 5px; 
+}
 
