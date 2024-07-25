@@ -56,5 +56,7 @@ p {
   .topnav {
     width: 300px; /* Increased width for mobile */
     height: 200px; /* Increased height for mobile */
+    border: 5px solid #333333;
+    border-radius: 5px;
   }
 }
