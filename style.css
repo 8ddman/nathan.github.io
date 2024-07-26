@@ -93,3 +93,19 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+/* Keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px); /* Optional: Add a slight translation */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply animation to headings and paragraphs */
+h1, p {
+  animation: fadeIn 1s ease-in-out;
+}
