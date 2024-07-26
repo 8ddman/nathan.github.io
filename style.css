@@ -64,6 +64,7 @@ p {
   } 
 }
 .secondp {
+  font-size: 24px;
   background-color: yellow;
   border: 2px solid #FF1493;
   border-radius: 5px;
