@@ -11,6 +11,11 @@ h1 {
 p {
   color: #808000;
   text-align: center;
+  font-size: 16px;
+  background-color: #595959;
+  border: 2px solid #FF1493;
+  border-radius: 5px;
+  padding: 4px;
 }
 
 .secondp {
