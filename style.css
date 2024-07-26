@@ -59,6 +59,7 @@ p {
  @media (max-width: 768px) {
   .topnav {
     width: 300px;
-    height: 200px; 
+    height: 200px;
+    overflow: hidden;
   } 
 }
