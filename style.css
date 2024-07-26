@@ -58,8 +58,8 @@ p {
 /* Media query for smaller screens (adjust breakpoint as needed) */
  @media (max-width: 768px) {
   .topnav {
-    width: 300px;
-    height: 200px;
+    width: auto; /*200px*/
+    height: auto; /*200px*/
     overflow: hidden;
   } 
 }
