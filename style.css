@@ -106,7 +106,7 @@ p {
 }
 
 /* Apply animation to headings and paragraphs */
-h1, p {
+h1, p, img {
   animation: fadeIn 1s ease-in-out;
 }
 /* images */
