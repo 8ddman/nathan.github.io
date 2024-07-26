@@ -63,3 +63,9 @@ p {
     overflow: hidden;
   } 
 }
+.secondp {
+  background-color: yellow;
+  border: 2px solid #FF1493;
+  border-radius: 5px;
+  padding: 4px;
+}
