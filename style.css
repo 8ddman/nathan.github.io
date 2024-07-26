@@ -67,11 +67,11 @@ p {
   border-radius: 6px;
   padding: 4px;
 }
-/* Media query for smaller screens (adjust breakpoint as needed) */
+/* Media query for small screens, phones and stuff idk? */
  @media (max-width: 768px) {
   .topnav {
-    width: auto; /*200px*/
-    height: auto; /*200px*/
+    width: auto; /*200px if broken*/
+    height: auto; /*200px if broke*/
     overflow: hidden;
   } 
 }
