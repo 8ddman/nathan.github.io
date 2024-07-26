@@ -59,6 +59,7 @@ p {
 .topnav a.active {
   background-color: #3656c9;
   color: white;
+  border-radius: 4px;
 }
 /*topnav button clicky thing alignment*/
 .topnav {
@@ -68,7 +69,7 @@ p {
 /* Topnav border*/
 .topnav {
   border: 4px solid #262626;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 4px;
 }
 /* Media query for small screens, phones and stuff idk? */
