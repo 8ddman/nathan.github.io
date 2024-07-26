@@ -109,3 +109,10 @@ p {
 h1, p {
   animation: fadeIn 1s ease-in-out;
 }
+/* images */
+img {
+  height="300"
+  width="400"
+  margin-left: auto;
+  margin-right: auto;
+}
