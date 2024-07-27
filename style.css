@@ -113,6 +113,9 @@ h1, p, img {
 img {
   width: 300px;
   height: 400px;
+/* Centering class im gonna use with images of dogs */
+.center {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
